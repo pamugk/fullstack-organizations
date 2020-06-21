@@ -1,0 +1,6 @@
+[submodule "org-info-client"]
+	path = org-info-client
+	url = https://github.com/pamugk/org-info-client
+[submodule "org-info-server"]
+	path = org-info-server
+	url = https://github.com/pamugk/org-info-server
